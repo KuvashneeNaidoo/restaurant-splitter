@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Tip Calculator](https://github.com/user-attachments/assets/553a3a77-e9de-4ef4-9bc5-1c28045ef149)
+![tip-calculator](https://github.com/user-attachments/assets/d71315a9-4dbd-42c1-82d4-c295d27d9144)
 
 ### Links
 
