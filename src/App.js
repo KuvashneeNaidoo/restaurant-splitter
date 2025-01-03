@@ -78,8 +78,8 @@ function TipCalculator() {
     <>
       {/* Title */}
       <h5>
-        <span>spli</span>
-        <span>tter</span>
+        <span>Restaurant</span>
+        <span>Splitter</span>
       </h5>
       <Container>
         <Row>
@@ -191,27 +191,6 @@ function TipCalculator() {
           </Col>
         </Row>
       </Container>
-
-      {/* Attributions */}
-      <div className="attribution">
-        Challenge by{" "}
-        <a
-          href="https://www.frontendmentor.io?ref=challenge"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Frontend Mentor
-        </a>
-        . Coded by{" "}
-        <a
-          href="https://github.com/KuvashneeNaidoo"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Kuvashnee Naidoo
-        </a>
-        .
-      </div>
     </>
   );
 }
