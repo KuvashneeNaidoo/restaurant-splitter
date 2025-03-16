@@ -73,7 +73,6 @@ input {
   padding: 0.5rem 0;
 }
 
-<<<<<<< HEAD
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
@@ -82,10 +81,6 @@ input::-webkit-inner-spin-button {
 
 /* Input spacing and button */
 .input-container input[type="number"],
-=======
-/* Input spacing and button */
-.input-container input[type="text"],
->>>>>>> 65bdb647478a6d2576370ecd652ad63fa5bf6fc3
 .input-container button,
 .input-container .custom-tip-input {
   width: 100%;

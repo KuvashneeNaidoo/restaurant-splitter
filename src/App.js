@@ -88,11 +88,7 @@ function TipCalculator() {
             <div className="input-container">
               <h6>Bill</h6>
               <input
-<<<<<<< HEAD
                 type="number"
-=======
-                type="text"
->>>>>>> 65bdb647478a6d2576370ecd652ad63fa5bf6fc3
                 onChange={handleBillAmount}
                 value={billAmount}
                 placeholder="0"
@@ -136,11 +132,7 @@ function TipCalculator() {
                 <input
                   className="custom-tip-input"
                   placeholder="custom"
-<<<<<<< HEAD
                   type="number"
-=======
-                  type="text"
->>>>>>> 65bdb647478a6d2576370ecd652ad63fa5bf6fc3
                   onChange={handleCustomTip}
                   value={customTip}
                 />
@@ -155,11 +147,7 @@ function TipCalculator() {
               </h6>
 
               <input
-<<<<<<< HEAD
                 type="number"
-=======
-                type="text"
->>>>>>> 65bdb647478a6d2576370ecd652ad63fa5bf6fc3
                 onChange={handlePeople}
                 value={totalPeople}
                 placeholder="0"
